@@ -1,0 +1,6 @@
+﻿  OpenCVApplication.cpp
+e:\facultate\aniv\semi\srf\opencvapplication-vs2015_31_basic\opencvapplication.cpp(482): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  OpenCVApplication.vcxproj -> E:\Facultate\AnIV\SemI\SRF\OpenCVApplication-VS2015_31_basic\x64\Debug\OpenCVApplication.exe
+  OpenCV\dll\Debug\opencv_ffmpeg310_64.dll
+  OpenCV\dll\Debug\opencv_world310d.dll
+          2 file(s) copied.
